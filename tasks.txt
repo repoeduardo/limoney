@@ -1,0 +1,7 @@
+1. [x] -> configurar o projeto para o modo SPA
+2. [x] -> instalação do TailwindCSS
+3. [] -> Verificar como funciona rotas e páginas dentro do Tauri.
+4. [x] -> Criar logotipo, paleta de cores, wireframes das janelas
+5. [x] -> Definir regras de negócio
+6. [x] -> Definir as funcionalidades básicas
+7. [] -> Ver como funciona integração com banco de dados local SQLite

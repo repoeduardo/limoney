@@ -1,0 +1,34 @@
+1. CADASTRO DE TRANSAÇÕES
+
+Entrada/Saída de dinheiro: O usuário pode registrar transações 
+de receita (créditos) e despesa (débito);
+
+Campos necessários: Titulo, Valor, Data, Conta,
+Categoria (exemplo: Alimentação, Transporte, Lazer), Tipo (Receita ou Despesa);
+Campos opcionais: Descrição;
+Regra: O saldo do usuário é atualizado automaticamente após cada transação;
+
+
+2. CATEGORIA DE GASTOS
+
+O usuário pode criar, editar e excluir categorias personalizadas para classificar as despesas;
+Categorias padrão sugeridas: Alimentação, Moradia, Transporte, Saúde, Lazer, Educação;
+Regra: Cada transação deve estar vinculada a uma categoria;
+
+3. RELATÓRIOS e GRÁFICOS
+
+O sistema gera um relatório mensal de receitas e despesas;
+Possibilidade de visualizar gráficos de gastos por categoria;
+Regra: O relatório pode ser exportado em PDF ou CSV;
+
+
+4. CADASTRO DE CONTAS e PAGAMENTOS
+
+O usuário pode cadastrar contas bancárias ou dinheiro em espécie;
+Regra: Cada transação pode ser associada a uma conta específica
+
+
+5. EXPORTAR e IMPORTAR
+
+O usuário pode exportar sua informações em um JSON
+O usuário pode importar suas informações a partir de um JSON

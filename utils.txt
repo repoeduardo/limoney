@@ -1,0 +1,11 @@
+CRIAÇÃO DE PROJETO
+    yarn create tauri-app
+    cd app
+    yarn install
+    yarn tauri dev
+
+TailwindCSS
+
+    yarn add -D tailwindcss@3.4.13
+    npx tailwindcss init -p
+
